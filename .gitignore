@@ -1,0 +1,5 @@
+checkpoints
+.vscode
+__pycache__
+*.txt
+.env
